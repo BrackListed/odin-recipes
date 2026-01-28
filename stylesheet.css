@@ -1,0 +1,58 @@
+.intro{
+    background-color: gold;
+    border: black solid 2px;
+    text-align: center;
+    display: block;
+    width: 700px;
+    margin: 0 auto 0 auto;
+    box-sizing: border-box;
+}
+
+.chicken{
+    background-color: rgb(113 235 224);
+    box-sizing: border-box;
+    display: block;
+    margin: 0 auto 0 0;
+    width: 300px;
+    outline: black solid 2px;
+}
+
+.chicken.header{
+    padding: 0 0 10px 0;
+}
+
+.chicken.explanation{
+    padding: 10px 0 0 0;
+}
+
+.spaghetti{
+    background-color: rgb(13 235 224);
+    box-sizing: border-box;
+    display: block;
+    width: 300px;
+    outline: black solid 2px;
+}
+
+.spaghetti.header{
+    padding: 0 0 10px 0;
+    margin-bottom: 2px;
+}
+
+.spaghetti.explanation{
+    padding: 10px 0 0 0;
+    margin-top: 0px;
+}
+
+.steak{
+    background-color: rgb(13 235 224);
+    width: 300px;
+    outline: black solid 2px;
+}
+
+.steak.header{
+    margin-bottom: 3px;
+}
+
+.steak.explanation{
+    margin-top: 0px;
+}
